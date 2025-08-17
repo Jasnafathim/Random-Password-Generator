@@ -35,4 +35,5 @@ A simple **Random Password Generator** built using **HTML, CSS, and JavaScript**
 ## Other Links
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jasnafathim)
+
 Medium Article: [Create a Secure Random Password Generator with HTML, CSS & JavaScript](https://medium.com/@jasnafathim/create-a-secure-random-password-generator-with-html-css-javascript-689ea7eb0e32)
